@@ -13,5 +13,10 @@ namespace EjemploCaja
         {
             CajaFuerte = cajaFuerte;
         }
+        public double dinero { get; set; }
+        
+          
+        
+
     }
 }
